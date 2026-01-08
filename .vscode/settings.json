@@ -1,0 +1,13 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit",
+    "source.sortMembers": "explicit"
+  },
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/b45b4e61-08a4-4113-8108-21c8d78bcc17/resourceGroups/churchdance/providers/Microsoft.Web/sites/helloworldmatticusdj",
+  "appService.deploySubpath": "."
+}
