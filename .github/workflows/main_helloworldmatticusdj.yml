@@ -61,5 +61,5 @@ jobs:
         with:
           app-name: 'helloworldmatticusdj'
           slot-name: 'Production'
-          package: .
+          package: ./dist
           
